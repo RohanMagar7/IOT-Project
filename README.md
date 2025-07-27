@@ -44,8 +44,8 @@ An offline, privacy-first, AI-powered voice assistant built using Python. It run
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/offline-voice-assistant.git
-cd offline-voice-assistant
+git clone [https://github.com/rohanmagar7/iot-project.git
+cd iot-project
 pip install -r requirements.txt
 ```
 
@@ -131,6 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Created by [Your Name](mailto:youremail@example.com)
+Created by [Rohan Magar](mailto:magarohan8@gmail.com)[Sominath Mirge](mailto:sominathmirge001@gmail.com)
 
-Project link: [https://github.com/yourusername/offline-voice-assistant](https://github.com/yourusername/offline-voice-assistant)
+Project link: [IOT Project](https://github.com/rohanmagar7/iot-project)
