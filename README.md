@@ -131,6 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Created by [Rohan Magar](mailto:magarohan8@gmail.com)[Sominath Mirge](mailto:sominathmirge001@gmail.com)
+Created by [Rohan Magar](mailto:magarohan8@gmail.com)  ---   [Sominath Mirge](mailto:sominathmirge001@gmail.com)
 
 Project link: [IOT Project](https://github.com/rohanmagar7/iot-project)
